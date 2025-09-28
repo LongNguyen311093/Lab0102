@@ -1,0 +1,24 @@
+2025-09-27 21:16:52,947 INFO Increased RLIMIT_NOFILE limit to 1024
+2025-09-27 21:16:52,967 INFO RPC interface 'supervisor' initialized
+2025-09-27 21:16:52,967 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-09-27 21:16:52,970 INFO daemonizing the supervisord process
+2025-09-27 21:16:52,972 INFO supervisord started with pid 29224
+2025-09-27 21:16:53,975 INFO spawned: 'tiki_scraper' with pid 29225
+2025-09-27 21:16:55,492 INFO success: tiki_scraper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-27 23:23:58,341 INFO exited: tiki_scraper (exit status 0; expected)
+2025-09-27 23:23:59,345 INFO spawned: 'tiki_scraper' with pid 29803
+2025-09-27 23:24:00,720 INFO success: tiki_scraper entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-09-27 23:38:00,738 INFO exited: tiki_scraper (exit status 0; expected)
+2025-09-27 23:38:01,742 INFO spawned: 'tiki_scraper' with pid 29930
+2025-09-27 23:38:02,092 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:03,096 INFO spawned: 'tiki_scraper' with pid 29942
+2025-09-27 23:38:03,467 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:05,471 INFO spawned: 'tiki_scraper' with pid 29954
+2025-09-27 23:38:05,866 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:08,871 INFO spawned: 'tiki_scraper' with pid 29965
+2025-09-27 23:38:09,267 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:13,273 INFO spawned: 'tiki_scraper' with pid 29977
+2025-09-27 23:38:13,639 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:18,646 INFO spawned: 'tiki_scraper' with pid 29988
+2025-09-27 23:38:19,006 WARN exited: tiki_scraper (exit status 0; not expected)
+2025-09-27 23:38:20,008 INFO gave up: tiki_scraper entered FATAL state, too many start retries too quickly
