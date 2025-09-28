@@ -8,3 +8,7 @@
     - Progress bar
     - Batch summary
     - Total summary at the end
+    - EST.Runtime ~ 1h
+    - Total Processed: 200.000
+        + Good Records (Including mising field ones) =  198.942
+        + Exception (404 - Not found) = 1058
