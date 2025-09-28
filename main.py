@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""
-Tiki Product Scraper with Checkpointing
-- Async scraping from Tiki API
-- Clean text (Vietnamese, lowercase, HTML removed)
-- Save good records to tiki_product
-- Save failed records to tiki_error
-- Uses tiki_queue table for checkpoint/resume
-- Supports retries with exponential backoff
-- Progress bar per batch
-"""
 
 import asyncio
 import aiohttp
